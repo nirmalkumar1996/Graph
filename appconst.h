@@ -1,0 +1,9 @@
+#ifndef APPCONST_H_INCLUDED
+#define APPCONST_H_INCLUDED
+
+#define MAX_NODES 32
+#define TRUE 1
+#define FALSE 0
+
+
+#endif // APPCONST_H_INCLUDED
